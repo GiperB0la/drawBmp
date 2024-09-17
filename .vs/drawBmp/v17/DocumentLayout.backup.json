@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp\\Projects\\drawBmp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7226DA2-B90F-41A9-AAE7-F1F1F7EF1932}|drawBmp\\drawBmp.vcxproj|D:\\cpp\\Projects\\drawBmp\\drawBmp\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7226DA2-B90F-41A9-AAE7-F1F1F7EF1932}|drawBmp\\drawBmp.vcxproj|solutionrelative:drawBmp\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7226DA2-B90F-41A9-AAE7-F1F1F7EF1932}|drawBmp\\drawBmp.vcxproj|D:\\cpp\\Projects\\drawBmp\\drawBmp\\src\\drawBmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7226DA2-B90F-41A9-AAE7-F1F1F7EF1932}|drawBmp\\drawBmp.vcxproj|solutionrelative:drawBmp\\src\\drawBmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7226DA2-B90F-41A9-AAE7-F1F1F7EF1932}|drawBmp\\drawBmp.vcxproj|D:\\cpp\\Projects\\drawBmp\\drawBmp\\include\\drawBmp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7226DA2-B90F-41A9-AAE7-F1F1F7EF1932}|drawBmp\\drawBmp.vcxproj|solutionrelative:drawBmp\\include\\drawBmp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "drawBmp.h",
+              "DocumentMoniker": "D:\\cpp\\Projects\\drawBmp\\drawBmp\\include\\drawBmp.h",
+              "RelativeDocumentMoniker": "drawBmp\\include\\drawBmp.h",
+              "ToolTip": "D:\\cpp\\Projects\\drawBmp\\drawBmp\\include\\drawBmp.h",
+              "RelativeToolTip": "drawBmp\\include\\drawBmp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-17T18:30:00.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "drawBmp.cpp",
+              "DocumentMoniker": "D:\\cpp\\Projects\\drawBmp\\drawBmp\\src\\drawBmp.cpp",
+              "RelativeDocumentMoniker": "drawBmp\\src\\drawBmp.cpp",
+              "ToolTip": "D:\\cpp\\Projects\\drawBmp\\drawBmp\\src\\drawBmp.cpp",
+              "RelativeToolTip": "drawBmp\\src\\drawBmp.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T18:30:06.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\cpp\\Projects\\drawBmp\\drawBmp\\src\\Main.cpp",
+              "RelativeDocumentMoniker": "drawBmp\\src\\Main.cpp",
+              "ToolTip": "D:\\cpp\\Projects\\drawBmp\\drawBmp\\src\\Main.cpp",
+              "RelativeToolTip": "drawBmp\\src\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T18:29:44.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
